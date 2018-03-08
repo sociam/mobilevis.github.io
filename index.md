@@ -4,7 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-<h1>Support Algorithm Accountability using Provenance --- Opportunities and Challenges</h1>
+# Support Algorithm Accountability using Provenance --- Opportunities and Challenges
+
+## A satellite event of Provenance Week 2018 (http://provenanceweek2018.org)
+## King's College London, 9-13 July, 2018
+======
 
 The **Data Visualization on Mobile Devices workshop at CHI 2018** is intended to be a platform to exchange information and experiences, to stimulate discussion, and to answer the following questions:  
 
