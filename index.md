@@ -5,10 +5,6 @@
 layout: page
 ---
 
-### A satellite event of [Provenance Week 2018](http://provenanceweek2018.org)
-### King's College London, 9-13 July, 2018
-
-
 ## Background
 
 **Support Algorithm Accountability using Provenance — Opportunities and Challenges** is a half-day satellite event that is to take place as part of the bi-annual Provenance Week 2018, to be hosted at King’s College London. The workshop aims to bring together researchers from different research areas, including law, machine learning, ethics as well as provenance, to explore challenges and opportunities for provenance-based algorithm accountability.
