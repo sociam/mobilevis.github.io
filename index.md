@@ -6,7 +6,7 @@ layout: page
 ---
 # Support Algorithm Accountability using Provenance --- Opportunities and Challenges
 
-## A satellite event of [Provenance Week 2018] (http://provenanceweek2018.org)
+## A satellite event of [Provenance Week 2018](http://provenanceweek2018.org)
 ## King's College London, 9-13 July, 2018
 
 
