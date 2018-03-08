@@ -6,9 +6,9 @@ layout: page
 ---
 # Support Algorithm Accountability using Provenance --- Opportunities and Challenges
 
-## A satellite event of Provenance Week 2018 (http://provenanceweek2018.org)
+## A satellite event of [Provenance Week 2018] (http://provenanceweek2018.org)
 ## King's College London, 9-13 July, 2018
-======
+
 
 The **Data Visualization on Mobile Devices workshop at CHI 2018** is intended to be a platform to exchange information and experiences, to stimulate discussion, and to answer the following questions:  
 
