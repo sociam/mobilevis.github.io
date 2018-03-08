@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-<center><h1>Support Algorithm Accountability using Provenance --- Opportunities and Challenges</h1></center>
+<h1>Support Algorithm Accountability using Provenance --- Opportunities and Challenges</h1>
 
 The **Data Visualization on Mobile Devices workshop at CHI 2018** is intended to be a platform to exchange information and experiences, to stimulate discussion, and to answer the following questions:  
 
