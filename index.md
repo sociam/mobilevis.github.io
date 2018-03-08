@@ -4,8 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-# Support Algorithm Accountability using Provenance 
-### --- Opportunities and Challenges
+# Support Algorithm Accountability using Provenance --- Opportunities and Challenges
 
 ### A satellite event of [Provenance Week 2018](http://provenanceweek2018.org)
 ### King's College London, 9-13 July, 2018
@@ -27,9 +26,9 @@ The workshop has three primary goals:
 * To identify gaps and open challenges in provenance research to support algorithm accountability
 
 ## Organisers
-* Jun Zhao, University of Oxford
-* Reuben Binns, University of Oxford
-* Adriane Chapman, University of Southampton
+* [Jun Zhao](https://sites.google.com/site/junzhaohome/), University of Oxford
+* [Reuben Binns](https://www.reubenbinns.com), University of Oxford
+* [Adriane Chapman](https://www.ecs.soton.ac.uk/people/ac1n16), University of Southampton
 
 ## Format
 Our workshop will be structured as follows:
@@ -38,8 +37,8 @@ Our workshop will be structured as follows:
 * Panel-led discussions about open challenges and opportunities for provenance-based algorithm explanations ~0.5 hour
 
 ### Confirmed invited speakers include:
-* Reuben Binns, University of Oxford
-* Michael Veale, University College London
+* [Reuben Binns](https://www.reubenbinns.com), University of Oxford
+* [Michael Veale](http://michae.lv), University College London
 
 ## Topics of interest
 We invite short talks from the following themes:
