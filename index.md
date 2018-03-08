@@ -4,11 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-# Support Algorithm Accountability using Provenance --- Opportunities and Challenges
+# Support Algorithm Accountability using Provenance 
+### --- Opportunities and Challenges
 
 ### A satellite event of [Provenance Week 2018](http://provenanceweek2018.org)
 ### King's College London, 9-13 July, 2018
-======
+
 
 ## Background
 
