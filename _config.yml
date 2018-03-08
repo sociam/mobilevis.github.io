@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data Visualization on Mobile Devices
-email: mobilevisualization@gmail.com
+title: Support Algorithm Accountability using Provenance — Opportunities and Challenges
+email: jun.zhao@cs.ox.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  A CHI 2018 workshop organized by Bongshin Lee, Matthew Brehmer, Petra Isenberg, Eun Kyoung Choe, Ricardo Langner, and Raimund Dachselt
+  A satellite event of Provenance Week 2018 organized by Jun Zhao, Reuben Binns and Age Chapman
 baseurl: "/saap-workshop" # the subpath of your site, e.g. /blog
 url: "https://sociam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mobilevis
-github_username:  mobilevis
+twitter_username: junszhao
+github_username:  junszhao
 
 # Build settings
 markdown: kramdown
