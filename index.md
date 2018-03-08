@@ -31,6 +31,7 @@ Our workshop will be structured as follows:
 
 ### Confirmed invited speakers include:
 * [Reuben Binns](https://www.reubenbinns.com), University of Oxford
+* [Paolo Missier](https://sites.google.com/site/paolomissier/), Newcastle University
 * [Michael Veale](http://michae.lv), University College London
 
 ## Topics of interest
