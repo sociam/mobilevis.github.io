@@ -16,7 +16,7 @@
 title: Support Algorithm Accountability using Provenance — Opportunities and Challenges
 email: jun.zhao@cs.ox.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  A satellite event of Provenance Week 2018 organized by Jun Zhao, Reuben Binns and Age Chapman
+A satellite event of [Provenance Week 2018](http://provenanceweek2018.org). King's College London, 9-13 July, 2018 organized by Jun Zhao, Reuben Binns and Age Chapman
 baseurl: "/saap-workshop" # the subpath of your site, e.g. /blog
 url: "https://sociam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: junszhao
