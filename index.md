@@ -32,6 +32,7 @@ Our workshop will be structured as follows:
 ### Confirmed invited speakers include:
 * [Reuben Binns](https://www.reubenbinns.com), University of Oxford
 * [Paolo Missier](https://sites.google.com/site/paolomissier/), Newcastle University
+* [Jat Singh](http://www.cl.cam.ac.uk/~js573/), University of Cambridge
 * [Michael Veale](http://michae.lv), University College London
 
 ## Topics of interest
