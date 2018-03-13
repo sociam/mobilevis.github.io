@@ -46,7 +46,7 @@ We invite short talks from the following themes:
 * Position papers that review challenges and opportunities of supporting algorithm accountability using provenance
 
 ## Submissions
-Authors are expected to first submit a 1-page expression of interest. Full papers are invited based on quality of work and relevance to the workshop.
+Authors are expected to first submit a 1-page expression of interest (up to 500 words). Full papers are invited based on quality of work and relevance to the workshop.
 
 Papers may be up to 4-6 pages in [Springer format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) or HTML format. Authors who may want to submit in **HTML format** could consider [dokieli](https://dokie.li/) or [RASH](https://save-sd.github.io/2018/submission.html#RASH). 
 
