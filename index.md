@@ -30,10 +30,11 @@ Our workshop will be structured as follows:
 * Panel-led discussions about open challenges and opportunities for provenance-based algorithm explanations ~0.5 hour
 
 ### Confirmed invited speakers include:
-* [Reuben Binns](https://www.reubenbinns.com), University of Oxford
-* [Paolo Missier](https://sites.google.com/site/paolomissier/), Newcastle University
-* [Jat Singh](http://www.cl.cam.ac.uk/~js573/), University of Cambridge
-* [Michael Veale](http://michae.lv), University College London
+* [Reuben Binns](https://www.reubenbinns.com), Department of Computer Science, University of Oxford
+* [Paolo Missier](https://sites.google.com/site/paolomissier/), School of Computing, Newcastle University
+* [Sophie Stalla-Bourdillon](https://www.southampton.ac.uk/law/about/staff/sophie_stalla.page), Southampton Law School, University of Southampton
+* [Jat Singh](http://www.cl.cam.ac.uk/~js573/), Department of Computer Science & Technology, University of Cambridge
+* [Michael Veale](http://michae.lv), Department of Science, Technology, Engineering and Public Policy, University College London
 
 ## Topics of interest
 We invite short talks from the following themes:
