@@ -45,7 +45,8 @@ From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College
 * [Michael Veale](http://michae.lv), Department of Science, Technology, Engineering and Public Policy, University College London
 
 ### List of accepted papers:
+* Algorithmic Accountability and the Role of Provenance --- Jacqui Ayling, Yushi Zou, and Adriane Chapman
 * Data Provenance for Accountability Mechanisms and Properties --- Benjamin E. Ujcich, Adam Bates, and William H. Sanders
 * Provenance and Algorithmic Accountability in Software Engineering --- Heather S. Packer
 * Instrumenting a Robotic Process Automation (RPA) Platform for Explainability: A Case Study --- Yi-Yen Liao, Andre Freitas
-* Algorithmic Accountability and the Role of Provenance --- Jacqui Ayling, Yushi Zou, and Adriane Chapman
+
