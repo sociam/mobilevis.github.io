@@ -23,11 +23,19 @@ The workshop has three primary goals:
 * [Reuben Binns](https://www.reubenbinns.com), University of Oxford
 * [Adriane Chapman](https://www.ecs.soton.ac.uk/people/ac1n16), University of Southampton
 
-## Format
-Our workshop will be structured as follows:
-* Invited talks by experts on algorithm accountability from other areas, including legal, ethical, human computer interactions and machine learning ~1 hour
-* Short presentations of reflection or work-in-progress papers, ~1 hour
-* Panel-led discussions about open challenges and opportunities for provenance-based algorithm explanations ~0.5 hour
+## Registration
+
+If you are not participanting ProvWeek, you can purchase a one-day ticket at £150. Registration information can be found [here](http://provenanceweek2018.org/registration/).
+
+## When and Where
+13:30-18:00 12 July, [Lecture Theatre 1, Bush House, King’s College London](http://provenanceweek2018.org/location/), 30 Aldwych, London, WC2B 4BG
+
+## Tentative workshop programme
+* 13:30-13:40 Workshop Introduction
+* 13:40-15:30 Session I
+* 15:30-16:00 Coffee
+* 16:00-17:00 Session II
+* 17:00-17:40 Panel Session
 
 ### Confirmed invited speakers include:
 * [Reuben Binns](https://www.reubenbinns.com), Department of Computer Science, University of Oxford
@@ -36,29 +44,8 @@ Our workshop will be structured as follows:
 * [Jat Singh](http://www.cl.cam.ac.uk/~js573/), Department of Computer Science & Technology, University of Cambridge
 * [Michael Veale](http://michae.lv), Department of Science, Technology, Engineering and Public Policy, University College London
 
-## Topics of interest
-We invite short talks from the following themes:
-* Analysing, querying, and reasoning about provenance for supporting algorithm accountability
-* Case studies of using provenance to support algorithm accountability
-* User studies of making provenance information more understandable for end users who look for more transparency and accountability
-* Overviews of active projects working on provenance and algorithm accountability
-* Reviews of provenance techniques in support of algorithm accountability
-* Methods and data models for capturing provenance
-* Position papers that review challenges and opportunities of supporting algorithm accountability using provenance
-
-## Submissions
-Authors are expected to first submit a 1-page expression of interest (up to 500 words). Full papers are invited based on quality of work and relevance to the workshop.
-
-Papers may be up to 4-6 pages in [Springer format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) or HTML format. Authors who may want to submit in **HTML format** could consider [dokieli](https://dokie.li/) or [RASH](https://save-sd.github.io/2018/submission.html#RASH). 
-
-Both the Expression of Interest and the full paper should be submitted by emailing jun.zhao @ cs.ox.ac.uk
-
-## Important dates:
-* **Expression of interest**: Tuesday, May 29
-* **Invitation to full paper**: Friday, June 1
-* **Full paper submission**: Monday, July 2
-* **Workshop**: 1:30pm-5pm, July 12 
-
-All deadlines set at midnight Hawaii Standard Time.
-
-
+### List of accepted papers:
+* Data Provenance for Accountability Mechanisms and Properties --- Benjamin E. Ujcich, Adam Bates, and William H. Sanders
+* Provenance and Algorithmic Accountability in Software Engineering --- Heather S. Packer
+* Instrumenting a Robotic Process Automation (RPA) Platform for Explainability: A Case Study --- Yi-Yen Liao, Andre Freitas
+* Algorithmic Accountability and the Role of Provenance --- Jacqui Ayling, Yushi Zou, and Adriane Chapman
