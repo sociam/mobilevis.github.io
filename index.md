@@ -25,7 +25,7 @@ The workshop has three primary goals:
 
 ## Registration
 
-If you are not participanting ProvWeek, you can purchase a one-day ticket at £150. Registration information can be found [here](http://provenanceweek2018.org/registration/).
+If you are not participanting ProvWeek for the whole week, you can purchase a one-day ticket at £150. Registration information can be found [here](http://provenanceweek2018.org/registration/).
 
 ## When and Where
 13:30-18:00 12 July, [Lecture Theatre 1, Bush House, King’s College London](http://provenanceweek2018.org/location/), 30 Aldwych, London, WC2B 4BG
