@@ -31,10 +31,10 @@ If you are not participanting ProvWeek for the whole week, you can purchase a on
 From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College London](http://provenanceweek2018.org/location/), 30 Aldwych, London, WC2B 4BG
 
 ## Tentative workshop programme
-* 13:30-13:40 Workshop Introduction
-* 13:40-15:30 Session I
+* 13:30-13:35 Workshop Introduction
+* 13:35-15:30 Invited talks
 * 15:30-16:00 Coffee
-* 16:00-17:00 Session II
+* 16:00-17:00 Short presentations
 * 17:00-17:40 Panel Session
 
 ### Confirmed invited speakers include:
