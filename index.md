@@ -41,8 +41,8 @@ From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College
 * 15:40-16:10 **Coffee**
 * 16:10-17:00 **Short presentations** (Chaired by Reuben)
    * 16:10-16:25 **Jacqui Ayling**:  Algorithmic Accountability and the Role of Provenance
-   * 16:25-16:40 **Benjamin E. Ujcich**: Data Provenance for Accountability Mechanisms and Properties
-  * 16:40-16:55 **Heather S. Packer**: Provenance and Algorithmic Accountability in Software Engineering
+   * 16:25-16:40 **Benjaminm Ujcich**: Data Provenance for Accountability Mechanisms and Properties
+  * 16:40-16:55 **Heather Packer**: Provenance and Algorithmic Accountability in Software Engineering
 * 17:00-17:40 **Panel Session** (Chaired by Age)
 
 ### Confirmed invited speakers include:
