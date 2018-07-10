@@ -37,7 +37,7 @@ From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College
 | **13:30 - 13:35** 	  | Workshop Opening
 | **13:35 - 15:30** 	  | Invited talks (Chaired by Jun)
 | 	  | Jat Singh, University of Cambridge. "Decision Provenance" - Accountability through data flow capture
-| 	  | Michaele Veale, University College of London. Fair Trade Algorithms?
+| 	  | Michaele Veale, University College London. Fair Trade Algorithms?
 | 	  | Paolo Missier, Newcastle University. Transparency and fairness of predictive models, and the provenance of data used to build them:  thoughts and challenges
 | 	  | Reuben Binns, University of Oxford. Making algorithmic decision-making justifiable and contestable; some technical, legal and institutional possibilities
 | 	  | Sophie Stalla-Bourdillon, University of Southampton. TBC
@@ -48,12 +48,18 @@ From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College
 | 	  | Heather Packer, University of Southampton. "Provenance and Algorithmic Accountability in Software Engineering"
 | **17:00 - 17:40** 	  | Panel Session (Chaired by Age)
 
-### Confirmed invited speakers include:
+### Invited speakers
+* [Jat Singh](http://www.cl.cam.ac.uk/~js573/) is an EPSRC Research Fellow at the Department of Computer Science & Technology (Computer Laboratory), University of Cambridge. His research concerns the technical and legal aspects of systems. His core interests span areas including security, privacy, management and audit, typically in the context of cloud and distributed environments (Internet of Things). His is currently leading two EPRSC research/fellowship projects: Realising Accountable Intelligent Systems (RAInS) and Towards a legally-compliant Internet of Things. 
+
+* [Michael Veale](http://michae.lv) is a technology policy researcher sitting between the Department of Science, Technology, Engineering and Public Policy (STEaPP) and the Department of Computer Science at University College London. His research focuses on building new sociotechnical tools (such as methods, software and guidelines) to assess the impact of machine-learning algorithms that make societal decisions, particularly in the public sector. He has a BSc from LSE and an MSc from Maastricht University, tweets at @mikarv and can also be found at http://michae.lv . 
+
+  * **Talk Abstract** Much has been said about how machine learning systems may create policy problems concerning fairness, accountability, privacy and power asymmetries. This talk argues that a significant omission from ethical frameworks discussed to date surrounds the provenance of these models. Given the rise in the trading or provision of trained models rather than the direct sharing of data, and the enormous disparities in privacy law around the world, this talk anticipates and analyses an emerging governance gap surrounding the social acceptability of the conditions under which the data used to train machine learning systems were obtained. This talk first asks whether European data protection law contemplates such a challenge, concluding it has few tools applicable in this context. Looking across sectors, however, this situation has surprising mirrors in sustainability standards, such as Fairtrade and Rainforest Alliance, applied to global product and commodity supply chains. Lastly, it considers the extent to which, given recent computer science research, the underlying technologies might be amenable to such governance, and if not, what might lead them to slip up.
+
 * [Reuben Binns](https://www.reubenbinns.com), Department of Computer Science, University of Oxford
 * [Paolo Missier](https://sites.google.com/site/paolomissier/), School of Computing, Newcastle University
 * [Sophie Stalla-Bourdillon](https://www.southampton.ac.uk/law/about/staff/sophie_stalla.page), Southampton Law School, University of Southampton
-* [Jat Singh](http://www.cl.cam.ac.uk/~js573/), Department of Computer Science & Technology, University of Cambridge
-* [Michael Veale](http://michae.lv), Department of Science, Technology, Engineering and Public Policy, University College London
+
+
 
 ### List of accepted papers:
 * Algorithmic Accountability and the Role of Provenance --- Jacqui Ayling, Yushi Zou, and Adriane Chapman
