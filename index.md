@@ -31,19 +31,22 @@ If you are not participanting ProvWeek for the whole week, you can purchase a on
 From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College London](http://provenanceweek2018.org/location/), 30 Aldwych, London, WC2B 4BG
 
 ## Tentative workshop programme
-* 13:30-13:35 Workshop Introduction
-* 13:35-15:30 **Invited talks** (Chaired by Jun)
-  * 13:35-14:00 **Jat Singh**: "Decision Provenance" - Accountability through data flow capture
-  * 14:00-14:25 **Michaele Veale**: Fair Trade Algorithms?
-  * 14:25-14:50 **Paolo Missier**: Transparency and fairness of predictive models, and the provenance of data used to build them:  thoughts and challenges
-  * 14:50-15:15 **Reuben Binns**: Making algorithmic decision-making justifiable and contestable; some technical, legal and institutional possibilities
-  * 15:15-15:40 **Sophie Stalla-Bourdillon**: TBD
-* 15:40-16:10 **Coffee**
-* 16:10-17:00 **Short presentations** (Chaired by Reuben)
-   * 16:10-16:25 **Jacqui Ayling**:  Algorithmic Accountability and the Role of Provenance
-   * 16:25-16:40 **Benjaminm Ujcich**: Data Provenance for Accountability Mechanisms and Properties
-  * 16:40-16:55 **Heather Packer**: Provenance and Algorithmic Accountability in Software Engineering
-* 17:00-17:40 **Panel Session** (Chaired by Age)
+
+| **Time** 	            | **Activity**            	                
+|-----------------------|-------------------------------------	
+| **13:30 - 13:35** 	  | Workshop Opening
+| **13:35 - 15:30** 	  | Invited talks (Chaired by Jun)
+| 	  | Jat Singh, University of Cambridge. "Decision Provenance" - Accountability through data flow capture
+| 	  | Michaele Veale, University College of London. Fair Trade Algorithms?
+| 	  | Paolo Missier, Newcastle University. Transparency and fairness of predictive models, and the provenance of data used to build them:  thoughts and challenges
+| 	  | Reuben Binns, University of Oxford. Making algorithmic decision-making justifiable and contestable; some technical, legal and institutional possibilities
+| 	  | Sophie Stalla-Bourdillon, University of Southampton. TBC
+| **15:40 - 16:10** 	  | Coffee
+| **16:10 - 17:00** 	  | Short presentations (Chaired by Reuben)                    	
+| 	  | Jacqui Ayling, University of Southampton. "Algorithmic Accountability and the Role of Provenance"
+| 	  | Benjaminm Ujcich, University of Illinois at Urbana-Champaign. "Data Provenance for Accountability Mechanisms and Properties"
+| 	  | Heather Packer, University of Southampton. "Provenance and Algorithmic Accountability in Software Engineering"
+| **17:00 - 17:40** 	  | Panel Session (Chaired by Age)
 
 ### Confirmed invited speakers include:
 * [Reuben Binns](https://www.reubenbinns.com), Department of Computer Science, University of Oxford
