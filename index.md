@@ -33,7 +33,7 @@ From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College
 ## Tentative workshop programme
 * 13:30-13:35 Workshop Introduction
 * 13:35-15:30 **Invited talks** (Chaired by Jun)
-  * 13:35-14:00 **Jat Singh**: TBD
+  * 13:35-14:00 **Jat Singh**: "Decision Provenance" - Accountability through data flow capture
   * 14:00-14:25 **Michaele Veale**: Fair Trade Algorithms?
   * 14:25-14:50 **Paolo Missier**: Transparency and fairness of predictive models, and the provenance of data used to build them:  thoughts and challenges
   * 14:50-15:15 **Reuben Binns**: Making algorithmic decision-making justifiable and contestable; some technical, legal and institutional possibilities
