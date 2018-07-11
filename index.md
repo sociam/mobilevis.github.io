@@ -44,7 +44,7 @@ From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College
 | **15:40 - 16:10** 	  | Coffee
 | **16:10 - 17:00** 	  | Short presentations (Chaired by Reuben)                    	
 | 	  | Jacqui Ayling, University of Southampton. "Algorithmic Accountability and the Role of Provenance"
-| 	  | Benjaminm Ujcich, University of Illinois at Urbana-Champaign. "Data Provenance for Accountability Mechanisms and Properties"
+| 	  | Benjamin Ujcich, University of Illinois at Urbana-Champaign. "Data Provenance for Accountability Mechanisms and Properties"
 | 	  | Heather Packer, University of Southampton. "Provenance and Algorithmic Accountability in Software Engineering"
 | **17:00 - 17:40** 	  | Panel Session (Chaired by Age)
 
