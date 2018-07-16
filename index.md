@@ -34,16 +34,16 @@ From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College
 | **13:30 - 13:35** 	  | Workshop Opening
 | **13:35 - 15:30** 	  | Invited talks (Chaired by Jun)
 | 	  | Jat Singh, University of Cambridge. "Decision Provenance" - Accountability through data flow capture [[Paper]](https://arxiv.org/abs/1804.05741)
-| 	  | Michaele Veale, University College London. Fair Trade Algorithms? [talk](./resources/02_veale_kcl.pdf)
-| 	  | Paolo Missier, Newcastle University. Transparency and fairness of predictive models, and the provenance of data used to build them:  thoughts and challenges [talk] (https://www.slideshare.net/pmissier/algorithmicdecisions-fairness-machine-learning-provenance-transparency)
-| 	  | Reuben Binns, University of Oxford. Making algorithmic decision-making justifiable and contestable; some technical, legal and institutional possibilities [talk](./resources/04_prov_saap_workshop_Binns.pdf)
+| 	  | Michaele Veale, University College London. Fair Trade Algorithms? [[Slides]](./resources/02_veale_kcl.pdf)
+| 	  | Paolo Missier, Newcastle University. Transparency and fairness of predictive models, and the provenance of data used to build them:  thoughts and challenges [[Slides]](https://www.slideshare.net/pmissier/algorithmicdecisions-fairness-machine-learning-provenance-transparency)
+| 	  | Reuben Binns, University of Oxford. Making algorithmic decision-making justifiable and contestable; some technical, legal and institutional possibilities [[Slides]](./resources/04_prov_saap_workshop_Binns.pdf)
 | 	  | Sophie Stalla-Bourdillon, University of Southampton. TBC
 | **15:40 - 16:10** 	  | Coffee
 | **16:10 - 17:00** 	  | Short presentations (Chaired by Reuben)                    	
-| 	  | Jacqui Ayling, University of Southampton. "Algorithmic Accountability and the Role of Provenance" [pdf](./resources/01_Ayling_Zhou_Chapman_final.pdf)
-| 	  | Benjamin Ujcich, University of Illinois at Urbana-Champaign. "Data Provenance for Accountability Mechanisms and Properties" [pdf](02_ujcich.pdf)
+| 	  | Jacqui Ayling, University of Southampton. "Algorithmic Accountability and the Role of Provenance" [[Pdf]](./resources/01_Ayling_Zhou_Chapman_final.pdf)
+| 	  | Benjamin Ujcich, University of Illinois at Urbana-Champaign. "Data Provenance for Accountability Mechanisms and Properties" [[Pdf]](02_ujcich.pdf)
 | 	  | Heather Packer, University of Southampton. "Provenance and Algorithmic Accountability in Software Engineering"
-| **17:00 - 17:40** 	  | Panel Session (Chaired by Age)[pdf](03_heather.pdf)
+| **17:00 - 17:40** 	  | Panel Session (Chaired by Age)[[Pdf]](03_heather.pdf)
 
 ### Invited speakers
 * [Jat Singh](http://www.cl.cam.ac.uk/~js573/) leads the interdisciplinary Compliant and Accountable Systems research group in the Department of Computer Science and Technology, University of Cambridge. He is also a Co-I in the Microsoft Cloud Computing Research Centre (MCCRC) and co-chairs the Cambridge Trust & Technology Initiative. His research concerns the
