@@ -33,7 +33,7 @@ From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College
 |-----------------------|-------------------------------------	
 | **13:30 - 13:35** 	  | Workshop Opening
 | **13:35 - 15:30** 	  | Invited talks (Chaired by Jun)
-| 	  | Jat Singh, University of Cambridge. "Decision Provenance" - Accountability through data flow capture [paper](https://arxiv.org/abs/1804.05741)
+| 	  | Jat Singh, University of Cambridge. "Decision Provenance" - Accountability through data flow capture [[Paper]](https://arxiv.org/abs/1804.05741)
 | 	  | Michaele Veale, University College London. Fair Trade Algorithms? [talk](./resources/02_veale_kcl.pdf)
 | 	  | Paolo Missier, Newcastle University. Transparency and fairness of predictive models, and the provenance of data used to build them:  thoughts and challenges [talk] (https://www.slideshare.net/pmissier/algorithmicdecisions-fairness-machine-learning-provenance-transparency)
 | 	  | Reuben Binns, University of Oxford. Making algorithmic decision-making justifiable and contestable; some technical, legal and institutional possibilities [talk](./resources/04_prov_saap_workshop_Binns.pdf)
