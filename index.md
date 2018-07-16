@@ -38,6 +38,7 @@ From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College
 | 	  | Paolo Missier, Newcastle University. Transparency and fairness of predictive models, and the provenance of data used to build them:  thoughts and challenges [[Slides]](https://www.slideshare.net/pmissier/algorithmicdecisions-fairness-machine-learning-provenance-transparency)
 | 	  | Reuben Binns, University of Oxford. Making algorithmic decision-making justifiable and contestable; some technical, legal and institutional possibilities [[Slides]](./resources/04_prov_saap_workshop_Binns.pdf)
 | 	  | Sophie Stalla-Bourdillon, University of Southampton. TBC
+| 	  | Rula Awad, a.i.poli. The trials and tribulations of algorithmic accountability [[Slides]](https://docs.google.com/presentation/d/17jKPhERLo79U0Ng5qBm3D4qnalsobvZS6P0PDOD7Lgc/edit#slide=id.g3d6b289fc9_0_0)
 | **15:40 - 16:10** 	  | Coffee
 | **16:10 - 17:00** 	  | Short presentations (Chaired by Reuben)                    	
 | 	  | Jacqui Ayling, University of Southampton. "Algorithmic Accountability and the Role of Provenance" [[Pdf]](./resources/01_Ayling_Zhou_Chapman_final.pdf)
