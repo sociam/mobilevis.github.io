@@ -43,8 +43,8 @@ From 1:30pm to 5:30pm, 12 July, [Lecture Theatre 1, Bush House, King’s College
 | **16:10 - 17:00** 	  | Short presentations (Chaired by Reuben)                    	
 | 	  | Jacqui Ayling, University of Southampton. "Algorithmic Accountability and the Role of Provenance" [[Pdf]](./resources/01_Ayling_Zhou_Chapman_final.pdf)
 | 	  | Benjamin Ujcich, University of Illinois at Urbana-Champaign. "Data Provenance for Accountability Mechanisms and Properties" [[Pdf]](02_ujcich.pdf)
-| 	  | Heather Packer, University of Southampton. "Provenance and Algorithmic Accountability in Software Engineering"
-| **17:00 - 17:40** 	  | Panel Session (Chaired by Age)[[Pdf]](03_heather.pdf)
+| 	  | Heather Packer, University of Southampton. "Provenance and Algorithmic Accountability in Software Engineering" [[Pdf]](03_heather.pdf)
+| **17:00 - 17:40** 	  | Panel Session (Chaired by Age)
 
 ### Invited speakers
 * [Jat Singh](http://www.cl.cam.ac.uk/~js573/) leads the interdisciplinary Compliant and Accountable Systems research group in the Department of Computer Science and Technology, University of Cambridge. He is also a Co-I in the Microsoft Cloud Computing Research Centre (MCCRC) and co-chairs the Cambridge Trust & Technology Initiative. His research concerns the
